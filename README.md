@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MayaraAndronico
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on AI projects
